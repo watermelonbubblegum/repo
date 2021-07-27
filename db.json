@@ -1,7 +1,11 @@
 {
-  "user": [
+  "posts": [
     {
-  "robloxid": 876543232,
-  "product": "Parsssss",
-  "Date": "7/27/21"
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
