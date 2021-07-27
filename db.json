@@ -1,11 +1,7 @@
 {
-  "posts": [
+  "nPb8UinEbk8xp6iLoAflAjDYGWnCa3": [
     {
-      "id": 1,
-      "title": "hello"
+      "robloxid": 1,
+      "product": "Native Fixtures"
+       "date": "7/27/21"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
